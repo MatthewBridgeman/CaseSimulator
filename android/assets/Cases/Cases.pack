@@ -1,0 +1,213 @@
+
+Cases.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eSports 2014 Summer
+  rotate: false
+  xy: 1, 801
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Operation Vanguard
+  rotate: false
+  xy: 1, 601
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+CSGO 1
+  rotate: false
+  xy: 259, 801
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+eSports 2013 Winter
+  rotate: false
+  xy: 1, 401
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Chroma 2
+  rotate: false
+  xy: 259, 601
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 517, 801
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Huntsman
+  rotate: false
+  xy: 1, 201
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Falchion
+  rotate: false
+  xy: 259, 401
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Operation Bravo
+  rotate: false
+  xy: 517, 601
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Winter Offensive
+  rotate: false
+  xy: 1, 1
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+CSGO 3
+  rotate: false
+  xy: 259, 201
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+CSGO 2
+  rotate: false
+  xy: 517, 401
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Chroma
+  rotate: false
+  xy: 259, 1
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Operation Phoenix
+  rotate: false
+  xy: 517, 201
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Operation Breakout
+  rotate: false
+  xy: 517, 1
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+
+Cases2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eSports 2013
+  rotate: false
+  xy: 1, 777
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2014 Legends
+  rotate: false
+  xy: 1, 583
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+Enfu
+  rotate: false
+  xy: 259, 783
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+Sticker 1
+  rotate: false
+  xy: 1, 389
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+DreamHack 2014 Legends
+  rotate: false
+  xy: 259, 589
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+EMS Katowice 2014 Legends
+  rotate: false
+  xy: 517, 783
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2015 Legends
+  rotate: false
+  xy: 1, 195
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+Sticker 2
+  rotate: false
+  xy: 259, 395
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2014 Challengers
+  rotate: false
+  xy: 517, 589
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+ESL One Katowice 2015 Legends
+  rotate: false
+  xy: 1, 1
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+ESL One Katowice 2015 Challengers
+  rotate: false
+  xy: 259, 201
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2015 Challengers
+  rotate: false
+  xy: 517, 395
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+EMS Katowice 2014 Challengers
+  rotate: false
+  xy: 259, 7
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+Community Sticker 1
+  rotate: false
+  xy: 517, 201
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1

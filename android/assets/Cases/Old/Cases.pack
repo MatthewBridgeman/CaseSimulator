@@ -1,0 +1,145 @@
+
+Cases.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Operation Breakout
+  rotate: false
+  xy: 1, 739
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+Operation Vanguard
+  rotate: false
+  xy: 1, 539
+  size: 256, 198
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+eSports 2014 Summer
+  rotate: false
+  xy: 259, 737
+  size: 250, 200
+  orig: 250, 200
+  offset: 0, 0
+  index: -1
+Operation Phoenix
+  rotate: false
+  xy: 1, 361
+  size: 241, 176
+  orig: 241, 176
+  offset: 0, 0
+  index: -1
+Winter Offensive
+  rotate: false
+  xy: 259, 559
+  size: 241, 176
+  orig: 241, 176
+  offset: 0, 0
+  index: -1
+Chroma
+  rotate: false
+  xy: 511, 762
+  size: 241, 175
+  orig: 241, 175
+  offset: 0, 0
+  index: -1
+Huntsman
+  rotate: false
+  xy: 1, 184
+  size: 241, 175
+  orig: 241, 175
+  offset: 0, 0
+  index: -1
+CSGO 1
+  rotate: false
+  xy: 754, 763
+  size: 238, 174
+  orig: 238, 174
+  offset: 0, 0
+  index: -1
+CSGO 2
+  rotate: false
+  xy: 1, 8
+  size: 238, 174
+  orig: 238, 174
+  offset: 0, 0
+  index: -1
+CSGO 3
+  rotate: false
+  xy: 511, 586
+  size: 238, 174
+  orig: 238, 174
+  offset: 0, 0
+  index: -1
+Operation Bravo
+  rotate: false
+  xy: 259, 385
+  size: 236, 172
+  orig: 236, 172
+  offset: 0, 0
+  index: -1
+eSports 2013 Winter
+  rotate: false
+  xy: 244, 206
+  size: 231, 177
+  orig: 231, 177
+  offset: 0, 0
+  index: -1
+eSports 2013
+  rotate: false
+  xy: 244, 27
+  size: 228, 177
+  orig: 228, 177
+  offset: 0, 0
+  index: -1
+Community Sticker 1
+  rotate: false
+  xy: 477, 193
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+EMS Katowice 2014 Challengers
+  rotate: false
+  xy: 474, 1
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+EMS Katowice 2014 Legends
+  rotate: false
+  xy: 626, 1
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2014 Challengers
+  rotate: false
+  xy: 751, 570
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2014 Legends
+  rotate: false
+  xy: 502, 394
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+Sticker 1
+  rotate: false
+  xy: 654, 378
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+Sticker 2
+  rotate: false
+  xy: 806, 378
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1

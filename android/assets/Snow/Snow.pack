@@ -1,0 +1,33 @@
+
+Snow.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Snowflake3
+  rotate: false
+  xy: 0, 0
+  size: 106, 119
+  orig: 107, 120
+  offset: 1, 1
+  index: -1
+Snowflake1
+  rotate: false
+  xy: 108, 19
+  size: 108, 100
+  orig: 110, 102
+  offset: 1, 1
+  index: -1
+Snowflake4
+  rotate: false
+  xy: 218, 11
+  size: 98, 108
+  orig: 99, 110
+  offset: 0, 1
+  index: -1
+Snowflake2
+  rotate: false
+  xy: 318, 81
+  size: 44, 38
+  orig: 45, 40
+  offset: 0, 1
+  index: -1

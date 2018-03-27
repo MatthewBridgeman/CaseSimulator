@@ -1,0 +1,75 @@
+
+Gun Backgrounds.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Large Blue Gun Background
+  rotate: false
+  xy: 0, 177
+  size: 180, 203
+  orig: 180, 203
+  offset: 0, 0
+  index: -1
+Large Gold Gun Background
+  rotate: false
+  xy: 182, 177
+  size: 180, 203
+  orig: 180, 203
+  offset: 0, 0
+  index: -1
+Large Pink Gun Background
+  rotate: false
+  xy: 364, 177
+  size: 180, 203
+  orig: 180, 203
+  offset: 0, 0
+  index: -1
+Large Purple Gun Background
+  rotate: false
+  xy: 546, 177
+  size: 180, 203
+  orig: 180, 203
+  offset: 0, 0
+  index: -1
+Large Red Gun Background
+  rotate: false
+  xy: 728, 177
+  size: 180, 203
+  orig: 180, 203
+  offset: 0, 0
+  index: -1
+Blue Gun Background
+  rotate: false
+  xy: 0, 0
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+Gold Gun Background
+  rotate: false
+  xy: 182, 0
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+Pink Gun Background
+  rotate: false
+  xy: 364, 0
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+Purple Gun Background
+  rotate: false
+  xy: 546, 0
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+Red Gun Background
+  rotate: false
+  xy: 728, 0
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1

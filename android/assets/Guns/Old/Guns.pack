@@ -1,0 +1,2118 @@
+
+Guns.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3DMAX (Holo) - Katowice 2014
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+3DMAX - Katowice 2014
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Aces High (Holo)
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Aces High
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Blue Laminate
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Cartel
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Case Hardened
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Fire Serpent
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Jaguar
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Red Laminate
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Redline
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Vulcan
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AK-47 - Wasteland Rebel
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AUG - Bengal Tiger
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AUG - Chameleon
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AUG - Torque
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AUG - Wings
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - Asiimov
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - BOOM
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - Corticera
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - Electric Hive
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - Graphite
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - Lightning Strike
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - Man-o'-war
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+AWP - Redline
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Backstab
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Banana
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Bash (Holo)
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Bish (Holo)
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Black Dog
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Bomb Code
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Bomb Doge
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Bosh (Holo)
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Burn Them All
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Butterfly Knife
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Cerberus
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Chicken Lover
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Clan-Mystik (Holo) - Katowice 2014
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Clan-Mystik - Katowice 2014
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Cloud9 (Holo) - Cologne 2014
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Cloud9 - Cologne 2014
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+compLexity Gaming (Holo) - Katowice 2014
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+compLexity Gaming - Katowice 2014
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Copenhagen Wolves (Holo) - Cologne 2014
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Copenhagen Wolves - Cologne 2014
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Crown (Foil)
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CZ75-Auto - Crimson Web
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CZ75-Auto - Hexane
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CZ75-Auto - Poison Dart
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CZ75-Auto - The Fuschia Is Now
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CZ75-Auto - Tigris
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CZ75-Auto - Tread Plate
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CZ75-Auto - Twist
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CZ75-Auto - Victoria
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dAT team (Holo) - Cologne 2014
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dAT team - Cologne 2014
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Death Comes
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Desert Eagle - Cobalt Disruption
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Desert Eagle - Conspiracy
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Desert Eagle - Crimson Web
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Desert Eagle - Golden Koi
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Desert Eagle - Heirloom
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Desert Eagle - Hypnotic
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Desert Eagle - Naga
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Dual Berettas - Black Limba
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Dual Berettas - Hemoglobin
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Dual Berettas - Marina
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Dual Berettas - Panther
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Dual Berettas - Retribution
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Dual Berettas - Urban Shock
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Easy Peasy
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Epsilon eSports (Holo) - Cologne 2014
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Epsilon eSports - Cologne 2014
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2014 (Blue)
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ESL One Cologne 2014 (Red)
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ESL Skull (Foil) - Katowice 2014
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ESL Wolf (Foil) - Katowice 2014
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+FAMAS - Afterimage
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+FAMAS - Doomkitty
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+FAMAS - Hexane
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+FAMAS - Pulse
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+FAMAS - Sergeant
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Fearsome (Holo)
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Fearsome
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Five-SeveN - Case Hardened
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Five-SeveN - Copper Galaxy
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Five-SeveN - Fowl Play
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Five-SeveN - Kami
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Five-SeveN - Nightshade
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Five-SeveN - Urban Hazard
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Flammable (Foil)
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Fnatic (Holo) - Cologne 2014
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Fnatic (Holo) - Katowice 2014
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Fnatic - Cologne 2014
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Fnatic - Katowice 2014
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+G3SG1 - Azure Zebra
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+G3SG1 - Demeter
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+G3SG1 - Murky
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Galil AR - Blue Titanium
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Galil AR - Chatterbox
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Galil AR - Kami
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Galil AR - Orange DDPAT
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Galil AR - Sandstorm
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Galil AR - Shattered
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Glock-18 - Blue Fissure
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Glock-18 - Catacombs
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Glock-18 - Dragon Tattoo
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Glock-18 - Grinder
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Glock-18 - Steel Disruption
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Glock-18 - Water Elemental
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Good Game
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Good Luck
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Have Fun
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Headhunter (Foil)
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+HellRaisers (Holo) - Cologne 2014
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+HellRaisers (Holo) - Katowice 2014
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+HellRaisers - Cologne 2014
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+HellRaisers - Katowice 2014
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Huntsman Knife
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+I Conquered
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+iBUYPOWER (Holo) - Cologne 2014
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+iBUYPOWER (Holo) - Katowice 2014
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+iBUYPOWER - Cologne 2014
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+iBUYPOWER - Katowice 2014
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Lets Roll-oll (Holo)
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Lets Roll-oll
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+LGB eSports (Holo) - Katowice 2014
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+LGB eSports - Katowice 2014
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Llama Cannon
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+London Conspiracy (Holo) - Cologne 2014
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+London Conspiracy - Cologne 2014
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Luck Skill (Foil)
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Luck Skill
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Lucky 13 (Foil)
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Lucky 13
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M249 - Magma
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M249 - System Lock
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A1-S - Atomic Alloy
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A1-S - Basilisk
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A1-S - Blood Tiger
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A1-S - Bright Water
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A1-S - Cyrex
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A1-S - Dark Water
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A1-S - Guardian
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Asiimov
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Bullet Rain
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Desert-Strike
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Faded Zebra
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Griffin
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Howl
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+M4A4 - X-Ray
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Zirka
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+M4A4 - Dragon King
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAC-10 - Curse
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAC-10 - Graven
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAC-10 - Heat
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAC-10 - Malachite
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAC-10 - Tatter
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAC-10 - Ultraviolet
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAG-7 - Firestarter
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAG-7 - Heaven Guard
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MAG-7 - Memento
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Metal
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+mousesports (Holo) - Katowice 2014
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+mousesports - Katowice 2014
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MP7 - Ocean Foam
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MP7 - Skulls
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MP7 - Urban Hazard
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MP9 - Dart
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MP9 - Deadly Poison
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MP9 - Hypnotic
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MP9 - Rose Iron
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MTS GameGod Wolf (Holo) - Cologne 2014
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+MTS GameGod Wolf - Cologne 2014
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+My Other Awp
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Natus Vincere (Holo) - Cologne 2014
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Natus Vincere (Holo) - Katowice 2014
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Natus Vincere - Cologne 2014
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Natus Vincere - Katowice 2014
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Negev - Bratatat
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Negev - Desert-Strike
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Negev - Terrain
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+New Sheriff (Foil)
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nice Shot
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Ninjas in Pyjamas (Holo) - Cologne 2014
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Ninjas in Pyjamas (Holo) - Katowice 2014
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Ninjas in Pyjamas - Cologne 2014
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Ninjas in Pyjamas - Katowice 2014
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nova - Antique
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nova - Bloomstick
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nova - Ghost Camo
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nova - Graphite
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nova - Koi
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nova - Rising Skull
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Nova - Tempest
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P2000 - Corticera
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P2000 - Fire Elemental
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P2000 - Ivory
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P2000 - Ocean Foam
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P2000 - Pulse
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+P2000 - Red FragCam
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Cartel
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Hive
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Mehndi
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Muertos
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Splash
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Steel Disruption
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Supernova
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P250 - Undertow
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Asiimov
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Blind Spot
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Cold Blooded
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Death by Kitty
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Desert Warfare
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Emerald Dragon
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Module
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Trigon
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+P90 - Virus
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Pocket BBQ
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+PP-Bizon - Antique
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+PP-Bizon - Blue Streak
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+PP-Bizon - Cobalt Halftone
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+PP-Bizon - Osiris
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+PP-Bizon - Water Sigil
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Rare Special Item
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Reason Gaming (Holo) - Katowice 2014
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Reason Gaming - Katowice 2014
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Rekt (Holo)
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Rising Skull
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Sawed-Off - Highwayman
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Sawed-Off - Orange DDPAT
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Sawed-Off - Serenity
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Sawed-Off - The Kraken
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SCAR-20 - Cardiac
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SCAR-20 - Crimson Web
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SCAR-20 - Cyrex
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SCAR-20 - Grotto
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Seek & Destroy
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SG 553 - Pulse
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SG 553 - Ultraviolet
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SG 553 - Wave Spray
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Shave Master
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Sneaky Beaky Like
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SSG 08 - Abyss
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SSG 08 - Blood in the Water
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SSG 08 - Dark Water
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+SSG 08 - Slashed
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Stupid Banana (Foil)
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Swag (Foil)
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Team Dignitas (Holo) - Cologne 2014
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Team Dignitas (Holo) - Katowice 2014
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Team Dignitas - Cologne 2014
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Team Dignitas - Katowice 2014
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Team LDLC.com (Holo) - Cologne 2014
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Team LDLC.com (Holo) - Katowice 2014
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Team LDLC.com - Cologne 2014
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Team LDLC.com - Katowice 2014
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Teamwork (Holo)
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Tec-9 - Blue Titanium
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Tec-9 - Isaac
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Tec-9 - Sandstorm
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Tec-9 - Titanium Bit
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Titan (Holo) - Cologne 2014
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Titan (Holo) - Katowice 2014
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Titan - Cologne 2014
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Titan - Katowice 2014
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+To B or not to B
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UMP-45 - Bone Pile
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UMP-45 - Corporal
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UMP-45 - Delusion
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UMP-45 - Labyrinth
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+USP-S - Blood Tiger
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+USP-S - Caiman
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+USP-S - Dark Water
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+USP-S - Guardian
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+
+Guns12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+USP-S - Orion
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+USP-S - Overgrowth
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+USP-S - Serum
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+USP-S - Stainless
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Vigilance (Holo)
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Vigilance
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Virtus.Pro (Holo) - Cologne 2014
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Virtus.Pro (Holo) - Katowice 2014
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Virtus.Pro - Cologne 2014
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Virtus.Pro - Katowice 2014
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Vox Eminor (Holo) - Cologne 2014
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Vox Eminor (Holo) - Katowice 2014
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Vox Eminor - Cologne 2014
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Vox Eminor - Katowice 2014
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Welcome to the Clutch
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+XM1014 - Heaven Guard
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+XM1014 - Quicksilver
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+XM1014 - Red Python
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+XM1014 - Tranquility
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

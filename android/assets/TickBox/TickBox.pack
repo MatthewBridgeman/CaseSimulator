@@ -1,0 +1,19 @@
+
+TickBox.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CheckedBox
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UncheckedBox
+  rotate: false
+  xy: 130, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

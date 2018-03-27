@@ -1,0 +1,1134 @@
+
+Knives.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bayonet - Crimson Web
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Safari Mesh
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Blue Steel
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Slaughter
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Butterfly Knife - Forest DDPAT
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Scorched
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Boreal Forest
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Urban Masked
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+M9 Bayonet - Urban Masked
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Urban Masked
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Slaughter
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Scorched
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bayonet - Boreal Forest
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Marble Fade
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Blue Steel
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Falchion Knife - Safari Mesh
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Fade
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Crimson Web
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Crimson Web
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+M9 Bayonet - Scorched
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Safari Mesh
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Case Hardened
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Slaughter
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shadow Daggers - Night
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Damascus Steel
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Stained
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Urban Masked
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+M9 Bayonet - Doppler
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Damascus Steel
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Safari Mesh
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Stained
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Huntsman Knife - Case Hardened
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Night
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Crimson Web
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Crimson Web
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shadow Daggers - Safari Mesh
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Fade
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Scorched
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Huntsman Knife - Night
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Stained
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Rust Coat
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Stained
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shadow Daggers - Forest DDPAT
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Case Hardened
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Safari Mesh
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Boreal Forest
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Butterfly Knife - Crimson Web
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Doppler
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Tiger Tooth
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Slaughter
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flip Knife - Urban Masked
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Night
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Marble Fade
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Case Hardened
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Butterfly Knife - Boreal Forest
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Tiger Tooth
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Stained
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Tiger Tooth
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Gut Knife - Slaughter
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Doppler
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Urban Masked
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Rust Coat
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flip Knife - Case Hardened
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Urban Masked
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Blue Steel
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Marble Fade
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bayonet - Damascus Steel
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Blue Steel
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Scorched
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Forest DDPAT
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flip Knife - Damascus Steel
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Night
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Stained
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Falchion Knife - Boreal Forest
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Fade
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Tiger Tooth
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Boreal Forest
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bayonet - Doppler
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Stained
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Marble Fade
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Karambit - Night
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Marble Fade
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Case Hardened
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Urban Masked
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Falchion Knife - Case Hardened
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Blue Steel
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Forest DDPAT
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flip Knife - Boreal Forest
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Crimson Web
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Crimson Web
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Safari Mesh
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Huntsman Knife - Safari Mesh
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Fade
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Rust Coat
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Stained
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bayonet
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Fade
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Rust Coat
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Fade
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Karambit - Slaughter
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Night
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Slaughter
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Scorched
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Gut Knife - Boreal Forest
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Damascus Steel
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Night
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives29.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Huntsman Knife
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Butterfly Knife - Urban Masked
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Flip Knife - Fade
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Scorched
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives30.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shadow Daggers - Case Hardened
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Huntsman Knife - Forest DDPAT
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Scorched
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Forest DDPAT
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives31.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+M9 Bayonet - Blue Steel
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Scorched
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Forest DDPAT
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Boreal Forest
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Gut Knife - Tiger Tooth
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Falchion Knife - Forest DDPAT
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Rust Coat
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Blue Steel
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Gut Knife - Stained
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+M9 Bayonet - Night
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Karambit - Fade
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Bayonet - Fade
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Gut Knife - Doppler
+  rotate: false
+  xy: 0, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Gut Knife - Case Hardened
+  rotate: false
+  xy: 362, 362
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Shadow Daggers - Slaughter
+  rotate: false
+  xy: 362, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+Knives35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flip Knife - Slaughter
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
